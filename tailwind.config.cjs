@@ -9,8 +9,8 @@ module.exports = {
       "jet": "#333333",
       "light-coral": "#EF6F6C",
       "key-lime": "#E6F8B2",
-      "yellow-green": "CDE77F",
-      "russian-green": "709179"
+      "yellow-green": "#CDE77F",
+      "russian-green": "#709179"
     },
     fontFamily: {
     
