@@ -10,7 +10,8 @@ module.exports = {
       "light-coral": "#EF6F6C",
       "key-lime": "#E6F8B2",
       "yellow-green": "#CDE77F",
-      "russian-green": "#709179"
+      "russian-green": "#709179",
+      "green": "#f7fcf8"
     },
     fontFamily: {
     
