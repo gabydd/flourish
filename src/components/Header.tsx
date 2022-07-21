@@ -1,5 +1,10 @@
+import titleLogo from "../assets/title_logo.png";
 function Header() {
-  return <h1 className="text-7xl text-center w-full text-jet">Flourish</h1>;
+  return (
+    <div className="flex items-center justify-center">
+      <img src={titleLogo} className="h-72" alt="logo that reads Flourish" />
+    </div>
+  );
 }
 
 export default Header;
